@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balah7&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balah7&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&layout=compact&langs_count=7&theme=omni"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon_js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
