@@ -15,8 +15,14 @@
 
 <div> 
   <a href="https://www.instagram.com/balah_7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/users/635504796299689990/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/users/635504796299689990/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+##
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/635504796299689990?theme=dark&bg=ce1010&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=🎧%20Ouvindo%20Matuê%20No%20Spotify)](https://discord.com/users/635504796299689990)
  
+##
+
   ![Snake animation](https://github.com/balah7/balah7/blob/output/github-contribution-grid-snake.svg)
  
 </div>
