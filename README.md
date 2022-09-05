@@ -26,7 +26,7 @@
 
 ##
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/635504796299689990?theme=dark&bg=ce1010&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=🎧%20Ouvindo%20Matuê%20No%20Spotify)](https://discord.com/users/635504796299689990)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/635504796299689990?theme=dark&bg=0d860c&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=🎧%20Ouvindo%20Matuê%20No%20Spotify)](https://discord.com/users/635504796299689990)
  
 ##
 
