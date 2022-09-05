@@ -6,11 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balah7&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
-<a href="https://wakatime.com/@balah7" target="_blank">
-	<img width="50%" align="center" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=balah7&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats">
-</a>
-
-##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon_js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
